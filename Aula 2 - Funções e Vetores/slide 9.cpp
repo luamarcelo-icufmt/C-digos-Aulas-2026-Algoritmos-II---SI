@@ -1,9 +1,19 @@
 /*
-Aula 2 - FunÁıes com Vetor
+ * Universidade Federal de Mato Grosso (UFMT)
+ * Instituto de Computa√ß√£o (IC)
+ * Disciplina: Algoritmos II
+ * Professor: Lu√£ Marcelo Muriana
+ * Semestre: 2026/2
+ *
+ * Material did√°tico desenvolvido para uso em aula.
+ */
 
-ExercÌcio: 
-Escreva uma funÁ„o que recebe como par‚metros um vetor com 10 n˙meros 
-inteiros e que retorne o maior n˙mero entre todos.
+/*
+Aula 2 - Fun√ß√µes com Vetor
+
+Exerc√≠cio: 
+Escreva uma fun√ß√£o que recebe como par√¢metros um vetor com 10 n√∫meros 
+inteiros e que retorne o maior n√∫mero entre todos.
 */
 
 #include<stdio.h>

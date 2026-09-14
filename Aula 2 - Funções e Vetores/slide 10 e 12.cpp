@@ -1,9 +1,19 @@
 /*
-Aula 2 - Funções com Vetor
+ * Universidade Federal de Mato Grosso (UFMT)
+ * Instituto de ComputaÃ§Ã£o (IC)
+ * Disciplina: Algoritmos II
+ * Professor: LuÃ£ Marcelo Muriana
+ * Semestre: 2026/2
+ *
+ * Material didÃ¡tico desenvolvido para uso em aula.
+ */
 
-Exercício: 
-Escreva duas funções, uma para solicitar que o usuário digite seu nome e 
-outra para escrever uma mensagem de boas-vindas para este usuário.
+/*
+Aula 2 - FunÃ§Ãµes com Vetor
+
+ExercÃ­cio: 
+Escreva duas funÃ§Ãµes, uma para solicitar que o usuÃ¡rio digite seu nome e 
+outra para escrever uma mensagem de boas-vindas para este usuÃ¡rio.
 */
 
 

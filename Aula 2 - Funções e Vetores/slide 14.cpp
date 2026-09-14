@@ -1,10 +1,20 @@
 /*
-Aula 2 - Funções com Vetor
+ * Universidade Federal de Mato Grosso (UFMT)
+ * Instituto de ComputaÃ§Ã£o (IC)
+ * Disciplina: Algoritmos II
+ * Professor: LuÃ£ Marcelo Muriana
+ * Semestre: 2026/2
+ *
+ * Material didÃ¡tico desenvolvido para uso em aula.
+ */
 
-Exercício: 
-Escreva uma programa que leia dois vetores de números inteiros. 
-Ao final, seu programa deve printar os números que se repetem nos dois vetores. 
-Caso não haja números repetidos entre os dois vetores, seu programa deve informar isso.
+/*
+Aula 2 - FunÃ§Ãµes com Vetor
+
+ExercÃ­cio: 
+Escreva uma programa que leia dois vetores de nÃºmeros inteiros. 
+Ao final, seu programa deve printar os nÃºmeros que se repetem nos dois vetores. 
+Caso nÃ£o haja nÃºmeros repetidos entre os dois vetores, seu programa deve informar isso.
 */
 
 #include<stdio.h>

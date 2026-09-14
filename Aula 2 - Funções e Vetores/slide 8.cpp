@@ -1,9 +1,19 @@
 /*
-Aula 2 - FunÁıes com Vetor
+ * Universidade Federal de Mato Grosso (UFMT)
+ * Instituto de Computa√ß√£o (IC)
+ * Disciplina: Algoritmos II
+ * Professor: Lu√£ Marcelo Muriana
+ * Semestre: 2026/2
+ *
+ * Material did√°tico desenvolvido para uso em aula.
+ */
 
-ExercÌcio: 
-Escreva uma funÁ„o para ler 10 n˙meros inteiros e armazen·-los em um vetor.
-Ao final, crie outra funÁ„o para printar os dados deste vetor.
+/*
+Aula 2 - Fun√ß√µes com Vetor
+
+Exerc√≠cio: 
+Escreva uma fun√ß√£o para ler 10 n√∫meros inteiros e armazen√°-los em um vetor.
+Ao final, crie outra fun√ß√£o para printar os dados deste vetor.
 */
 
 #include<stdio.h>

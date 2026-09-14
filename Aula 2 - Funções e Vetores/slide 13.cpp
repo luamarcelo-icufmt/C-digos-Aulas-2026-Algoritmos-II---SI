@@ -1,9 +1,19 @@
 /*
-Aula 2 - Funções com Vetor
+ * Universidade Federal de Mato Grosso (UFMT)
+ * Instituto de ComputaÃ§Ã£o (IC)
+ * Disciplina: Algoritmos II
+ * Professor: LuÃ£ Marcelo Muriana
+ * Semestre: 2026/2
+ *
+ * Material didÃ¡tico desenvolvido para uso em aula.
+ */
 
-Exercício: 
-Escreva um programa para ler os dados de dois vetores de 10 números inteiros. 
-Ao final, seu programa deve printar um terceiro vetor contendo os números dos dois vetores iniciais.
+/*
+Aula 2 - FunÃ§Ãµes com Vetor
+
+ExercÃ­cio: 
+Escreva um programa para ler os dados de dois vetores de 10 nÃºmeros inteiros. 
+Ao final, seu programa deve printar um terceiro vetor contendo os nÃºmeros dos dois vetores iniciais.
 */
 
 #include<stdio.h>
