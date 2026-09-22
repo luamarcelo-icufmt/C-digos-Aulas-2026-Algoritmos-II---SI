@@ -14,7 +14,6 @@ Entre os principais conteúdos estão:
 
 * Funções e procedimentos
 * Passagem de parâmetros
-* Vetores e matrizes
 * Algoritmos de ordenação
 * Algoritmos de busca
 * `struct` e tipos definidos pelo usuário (`typedef`)
