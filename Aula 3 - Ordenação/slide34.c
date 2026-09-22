@@ -1,21 +1,21 @@
 /*
  * Universidade Federal de Mato Grosso (UFMT)
- * Instituto de ComputaÁ„o (IC)
+ * Instituto de Computa√ß√£o (IC)
  * Disciplina: Algoritmos II
- * Professor: Lu„ Marcelo Muriana
+ * Professor: Lu√£ Marcelo Muriana
  * Semestre: 2026/2
  *
- * Material did·tico desenvolvido para uso em aula.
+ * Material did√°tico desenvolvido para uso em aula.
  */
 
 /*
-Aula 3 - OrdenaÁ„o
+Aula 3 - Ordena√ß√£o
 
-ExercÌcio Slide 34: 
+Exerc√≠cio Slide 34: 
 
-Escreva uma funÁ„o para encontrar os k  maiores elementos em um vetor.
+Escreva uma fun√ß√£o para encontrar os k  maiores elementos em um vetor.
 
-Por exemplo: dados o vetor [1, 13, 12, 9, 20, 5, 42] e k = 3, a funÁ„o deve retornar 13, 20 e 42.
+Por exemplo: dados o vetor [1, 13, 12, 9, 20, 5, 42] e k = 3, a fun√ß√£o deve retornar 13, 20 e 42.
 
 */
 
