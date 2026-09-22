@@ -1,19 +1,19 @@
 /*
  * Universidade Federal de Mato Grosso (UFMT)
- * Instituto de ComputaÁ„o (IC)
+ * Instituto de Computa√ß√£o (IC)
  * Disciplina: Algoritmos II
- * Professor: Lu„ Marcelo Muriana
+ * Professor: Lu√£ Marcelo Muriana
  * Semestre: 2026/2
  *
- * Material did·tico desenvolvido para uso em aula.
+ * Material did√°tico desenvolvido para uso em aula.
  */
 
 /*
-Aula 3 - OrdenaÁ„o
+Aula 3 - Ordena√ß√£o
 
-ExercÌcio Slide 33: 
+Exerc√≠cio Slide 33: 
 
-Escreva uma funÁ„o que, dado um vetor com n elementos e um k (tal que 1 <= k <= n), 
+Escreva uma fun√ß√£o que, dado um vetor com n elementos e um k (tal que 1 <= k <= n), 
 determine o k-esimo maior elemento do vetor.
 
 */
