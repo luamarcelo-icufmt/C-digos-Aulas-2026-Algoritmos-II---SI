@@ -1,19 +1,19 @@
 /*
  * Universidade Federal de Mato Grosso (UFMT)
- * Instituto de ComputaÁ„o (IC)
+ * Instituto de Computa√ß√£o (IC)
  * Disciplina: Algoritmos II
- * Professor: Lu„ Marcelo Muriana
+ * Professor: Lu√£ Marcelo Muriana
  * Semestre: 2026/2
  *
- * Material did·tico desenvolvido para uso em aula.
+ * Material did√°tico desenvolvido para uso em aula.
  */
 
 /*
-Aula 3 - OrdenaÁ„o
+Aula 3 - Ordena√ß√£o
 
-ExercÌcio Slide 32: 
+Exerc√≠cio Slide 32: 
 
-Melhore o problema anterior para que o usu·rio escolha por qual mÈtodo ele quer que o vetor seja ordenado.
+Melhore o problema anterior para que o usu√°rio escolha por qual m√©todo ele quer que o vetor seja ordenado.
 
 */
 
@@ -103,7 +103,7 @@ void printar_vetor(int vet[], int tam) {
 
 void menu() {
 	
-	printf(" ----- Metodos de OrdenaÁ„o Implementados -----\n");
+	printf(" ----- Metodos de Ordena√ß√£o Implementados -----\n");
 	printf("1. Bubble Sort \n");
 	printf("2. Selection Sort\n");
 	printf("3. Insertion Sort\n");
